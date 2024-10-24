@@ -41,7 +41,7 @@ class student{
 			cout <<"\n********************************** UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY  ****************************";
 			cout <<"\n*************************************************** INFORMATION TECHNOLOGY *********************************************";
 			cout <<"\n\n========================================================================================================================\n\n";
-			cout << "\t\t\t\t "<<" " << "                    MARKS CERTIFICATE " << endl;
+			cout << "\t\t\t\t "<<"" << "                    MARKS CERTIFICATE " << endl;
 			
 			cout << "\n\n";
 			system("color 0f");
